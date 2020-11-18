@@ -1,0 +1,35 @@
+.navbar-toggler{
+    padding: 40px;
+}
+.nav-item active{
+    padding: 20px;
+}
+.nav-item{
+    padding: 20px;
+}
+.nav-item dropdown{
+    padding: 20px;
+}
+.navlink-disabled{
+    padding: 20px;
+}
+.card-img-top{
+    width: 15%; height: 15vw; object-fit: cover; 
+}
+.main-jumbotron{
+    background-image: url(..//images/Backgroundhero2.png);
+    background-size: cover;
+}
+.secondary-jumbotron{
+    background-image: url(..//images/Rectangle\ 13.png);
+    background-size: cover;
+    color: white;
+}
+.last-card-text{
+    background-image: url(..//images/Rectangle\ 13.png);
+    background-size: cover;
+    color: white;
+}
+.navbar-nav {
+    padding-left: 100px;
+}
